@@ -19,7 +19,7 @@ if you wanna post this animation on your website,download box.js and write the f
 
 
 ```
-<script type="text/javascript" src="https://cdn.rawgit.com/mrdoob/three.js/master/build/three.min.js"></script>
+<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/mrdoob/three.js@master/build/three.min.js"></script>
 ```
 
 and Write 
